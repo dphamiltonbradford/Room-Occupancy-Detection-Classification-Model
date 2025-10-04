@@ -1,0 +1,1 @@
+Predicts room occupancy using machine learning based on temperature, CO2, humidity, light, and humidity ratio. The model uses Logistic Regression trained on temperature and CO2 to classify occupancy, achieving ~87% accuracy. Includes data preprocessing, training, evaluation, and visualization. I used the public dataset here: https://www.kaggle.com/dataset
